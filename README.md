@@ -1,6 +1,6 @@
 <h1>
 <p align="center">
-  <img src="https://pinnlabs.online/markforger_logo-dark.png" alt="MarkForger" width="128">
+  <img src="https://pinnlabs.online/logo-dark.png" alt="MarkForger" width="128">
   <br>MarkForger
 </h1>
   <p align="center">
